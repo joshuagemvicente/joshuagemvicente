@@ -3,9 +3,6 @@
 ### Hello! My name is Joshua Gem Vicente. I am from Araullo University taking BS Information Technology, Major in Web Development.
 
 #### I have a huge interest on building web/mobile applications, blockchains, and discord bots.
-
-#### Freelancing Brand: CodeGlyph 
-
 <!--
 **joshuagemvicente/joshuagemvicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
